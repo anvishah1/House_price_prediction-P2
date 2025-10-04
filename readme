@@ -1,0 +1,5 @@
+project 2 
+house price prediction detection using XGBRegressor model 
+
+includes correlation factor and displaying it as a heatmap 
+also has scatter plot to evaluate the model using mse and r2 score using metrics from sklearn
